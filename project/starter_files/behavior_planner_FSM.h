@@ -22,7 +22,6 @@
 #include "planning_params.h"
 #include "structs.h"
 #include "utils.h"
-#include "velocity_profile_generator.h"
 
 namespace cc = carla::client;
 namespace cg = carla::geom;
